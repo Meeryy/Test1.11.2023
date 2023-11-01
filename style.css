@@ -1,3 +1,81 @@
 .header{
     justify-content: start;
-   
+    margin:auto, auto, auto;
+    color:rgb(80, 28, 28);
+}
+.headerh{
+   text-align: center;
+}
+
+.html{
+    background-color: blue ;
+    font-family: 'Times New Roman';
+}
+.html2{
+    background-color: yellow;
+    font-family: Arial;
+}
+
+.html3{
+    background-color: rgb(255, 0, 140);
+    font-family:'Courier New', Courier, monospace;
+}
+.ul1{
+    color: blueviolet;
+}
+.ul2{
+    color: rgb(57, 51, 63);
+}
+.ul3{
+    color: rgb(226, 214, 43);
+}
+.ul4{
+    color: rgb(226, 86, 43);
+}
+.ul5{
+    color: rgb(43, 226, 141);
+}
+.ul6{
+    color: rgb(198, 226, 43);
+}
+.ul7{
+    color: rgb(45, 41, 49);
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(9, 255, 0);
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .grid-item {
+    background-color: rgb(135, 250, 164);
+    border: 1px solid rgb(133, 122, 122);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  .bunka1 {
+    background: rgb(255, 0, 179);
+  }
+  .bunka2 {
+    background: rgb(0, 255, 128);
+  }
+  .bunka3 {
+    background: rgb(28, 31, 29);
+  }
+  .bunka4 {
+    background: rgb(119, 0, 255);
+  }
+  .bunka5 {
+    background: rgb(226, 116, 43);
+  }
+  .bunka6{
+    background: rgb(53, 50, 205);
+  }
+  
+ 
